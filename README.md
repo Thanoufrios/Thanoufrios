@@ -15,13 +15,13 @@ Preparing for a Master's degree in Mechanical and Electrical Engineering to furt
 
 ## Tech Stack & Tools
 
-### 🐍 Languages: Python
+###  Languages: 🐍 Python
 
-### 🤖 Robotics & Middleware: ROS2 | 🚁 PX4 Autopilot | 📡 FastDDS
+###  Robotics & Middleware: 🤖 ROS2 | 🚁 PX4 Autopilot | 📡 FastDDS
 
-### 🐧 Environments & OS: Ubuntu Linux | 🪟 WSL | 🖥️ KDE Plasma
+###  Environments & OS: 🐧 Ubuntu Linux | 🪟 WSL | 🖥️ KDE Plasma
 
-### 🌿 DevOps & Fabrication: Git | 🖨️ 3D Printing 
+###  DevOps & Fabrication: 🌿 Git | 🖨️ 3D Printing 
 
 ---
 ### Open to collaboration on open-source UAV technologies and autonomous flight frameworks.
